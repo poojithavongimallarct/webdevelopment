@@ -1,0 +1,83 @@
+
+.image{
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: rgb(38, 122, 239);
+    margin-bottom: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para{
+    margin-left: 50px;
+    margin-top: 0%;
+}
+.email{
+    margin-top: 5px;
+    margin-bottom: 7px;
+    width: 100%;
+    border-style: solid;
+    border-color: rgb(233, 231, 231);
+    height: 25px;
+    border-radius: 3px;
+}
+.pass{
+    margin-bottom: 7px;
+    width: 100%;
+    border-style: solid;
+    border-color: rgb(233, 231, 231);
+    height: 25px;
+    border-radius: 3px;
+}
+.btn{
+    width: 105%;
+    color: white;
+    background-color: rgb(38, 122, 239);
+    border: none;
+    height: 30px;
+    border-radius: 3px;}
+
+.new{
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: rgb(15, 160, 15);
+    border: none;
+    color: white;
+    height: 30px;
+    border-radius: 3px;
+    margin-bottom: 3px;
+}
+.total{
+    background-color: rgb(248, 239, 239); 
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    place-content: center;
+
+}
+.right{
+    margin-top: 100px;
+    display: grid;
+    place-items: center;
+    background-color: white;
+    height: 200px;
+    width: 250px;
+    box-shadow: 0.5px 0.5px 0.5px rgba(0, 0,0,0.25);
+    margin-left: 30px;
+
+}
+.content{
+    margin-left: 20px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.left{
+    margin-top: 100px;
+}
+.fpass{
+    width: 105%;
+    margin-top: 7px;
+    border: none;
+    color: rgb(54, 124, 228);
+    height: 20px;
+    background-color: white;
+    box-shadow: 1px 1px 1px rgba(0, 0,0,0.15);
+}
